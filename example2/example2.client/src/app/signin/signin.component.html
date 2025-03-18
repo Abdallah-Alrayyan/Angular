@@ -1,0 +1,9 @@
+<p>signin works!</p>
+
+<form #userPost="ngForm" (ngSubmit)="USER(userPost.value) ">
+
+  <input type="text" name="name" ngModel placeholder="name"><br><br>
+  <input type="text" name="email" ngModel placeholder="email"><br><br>
+  <button type="submit">submit</button>
+
+</form>

@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ServicesService } from '../services/services.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-singale-product',
@@ -6,5 +8,25 @@ import { Component } from '@angular/core';
   styleUrl: './singale-product.component.css'
 })
 export class SingaleProductComponent {
+
+
+  constructor(private _ser: ServicesService, private _active: ActivatedRoute) { }
+
+  ngOnInit() {
+
+    this.getdata();
+
+  }
+
+  productId: any
+  product : any
+  getdata() {
+
+    this.productId = this._active.snapshot.paramMap.get("id")
+    this._ser.getProductData().subscribe((data) => {
+      this.product = data.find((x: any) => x.id == this.productId)
+    })
+
+  }
 
 }

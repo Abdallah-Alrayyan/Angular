@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F92155-7D44-4F22-B31D-6C69F24E7F92}|example3.client\\example3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example3\\example3.client\\src\\app\\example\\example.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F92155-7D44-4F22-B31D-6C69F24E7F92}|example3.client\\example3.client.esproj|solutionrelative:example3.client\\src\\app\\example\\example.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F92155-7D44-4F22-B31D-6C69F24E7F92}|example3.client\\example3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example3\\example3.client\\src\\app\\example\\example.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{03F92155-7D44-4F22-B31D-6C69F24E7F92}|example3.client\\example3.client.esproj|solutionrelative:example3.client\\src\\app\\example\\example.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "example.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example3\\example3.client\\src\\app\\example\\example.component.html",
+              "RelativeDocumentMoniker": "example3.client\\src\\app\\example\\example.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example3\\example3.client\\src\\app\\example\\example.component.html",
+              "RelativeToolTip": "example3.client\\src\\app\\example\\example.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T08:32:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example3\\example3.client\\src\\app\\example\\example.component.ts",
+              "RelativeDocumentMoniker": "example3.client\\src\\app\\example\\example.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example3\\example3.client\\src\\app\\example\\example.component.ts",
+              "RelativeToolTip": "example3.client\\src\\app\\example\\example.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T08:31:58.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

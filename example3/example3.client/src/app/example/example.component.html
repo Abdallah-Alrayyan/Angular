@@ -1,0 +1,51 @@
+<p>example works!</p>
+
+
+<!--basic-->
+
+<div *ngIf="isVisible">
+  This content is visible!
+</div>
+
+
+
+<ul>
+  <li *ngFor="let ahmad of items">
+    {{ ahmad }}
+  </li>
+</ul>
+
+
+
+<div [ngSwitch]="value">
+  <p *ngSwitchCase="'A'">Value is A</p>
+  <p *ngSwitchCase="'B'">Value is B</p>
+  <p *ngSwitchDefault>Value is neither A or B</p>
+</div>
+
+<!---------------------------------------------------------------------->
+
+
+
+<ul>
+  <li *ngFor="let user of users">
+    <p><strong>Name:</strong> {{ user.name }}</p>
+    <p><strong>Age:</strong> {{ user.age }}</p>
+
+     <!--*ngIf: Show a special message for admins--> 
+    <p *ngIf="user.role === 'Admin'" style="color: green;">
+      This user is an Admin!
+    </p>
+
+     *ngSwitch: Display a badge based on the user's role 
+    <div [ngSwitch]="user.role">
+      <span *ngSwitchCase="'Admin'" class="badge admin">Admin</span>
+      <span *ngSwitchCase="'User'" class="badge user">User</span>
+      <span *ngSwitchDefault class="badge guest">Guest</span>
+    </div>
+
+    <hr>
+  </li>
+</ul>
+
+

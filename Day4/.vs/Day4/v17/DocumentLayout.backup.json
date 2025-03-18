@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\app\\admin\\add-poducts\\add-poducts.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\app\\admin\\add-poducts\\add-poducts.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\app\\admin\\add-poducts\\add-poducts.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\app\\admin\\add-poducts\\add-poducts.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\app\\admin\\get-category\\get-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\app\\admin\\get-category\\get-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\app\\admin\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day4\\day4.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2703D79-A215-4A50-B9D2-F6007579783D}|day4.client\\day4.client.esproj|solutionrelative:day4.client\\src\\app\\admin\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\index.html",
+              "RelativeDocumentMoniker": "day4.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\index.html*",
+              "RelativeToolTip": "day4.client\\src\\index.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T21:51:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "get-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "RelativeDocumentMoniker": "day4.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "RelativeToolTip": "day4.client\\src\\app\\Admin\\get-category\\get-category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T20:47:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add-poducts.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.html",
+              "RelativeDocumentMoniker": "day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.html",
+              "RelativeToolTip": "day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T20:33:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add-poducts.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.ts",
+              "RelativeDocumentMoniker": "day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.ts",
+              "RelativeToolTip": "day4.client\\src\\app\\Admin\\add-poducts\\add-poducts.component.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T20:33:12.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "RelativeDocumentMoniker": "day4.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "RelativeToolTip": "day4.client\\src\\app\\Admin\\add-category\\add-category.component.ts",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-18T14:53:54.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "add-category.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "RelativeDocumentMoniker": "day4.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day4\\day4.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "RelativeToolTip": "day4.client\\src\\app\\Admin\\add-category\\add-category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T14:53:51.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

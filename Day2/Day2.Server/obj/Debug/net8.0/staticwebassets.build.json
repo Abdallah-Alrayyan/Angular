@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "5LgN2B/hPNYzDpyulLubTciuLiC2C/38rseh7jjDU88=",
+  "Hash": "uxsBRhALtTeIH9UswB4/55IfFRmjzCS4kyMhVk9eXz4=",
   "Source": "Day2.Server",
   "BasePath": "_content/Day2.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\hi\\Desktop\\New folder (3)\\Day2\\day2.client\\day2.client.esproj",
+      "Identity": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\day2.client.esproj",
       "Version": 2,
       "Source": "day2.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:61791",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\hi\\Desktop\\New folder (3)\\Day2\\Day2.Server\\..\\day2.client",
+"WorkingDirectory": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\Day2.Server\\..\\day2.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

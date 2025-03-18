@@ -1,0 +1,29 @@
+<p>get-product works!</p>
+
+<!-- Page content -->
+<div class="content">
+
+
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Description</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let Product of Products">
+        <th scope="row">{{Product.id}}</th>
+        <td>{{Product.name}}</td>
+        <td>{{Product.description}}</td>
+
+      </tr>
+
+
+    </tbody>
+  </table>
+</div>
+

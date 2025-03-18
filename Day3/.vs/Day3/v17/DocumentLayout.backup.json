@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day3\\day3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E071B91F-C791-4E7E-9FEC-404E67232CA6}|day3.client\\day3.client.esproj|solutionrelative:day3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "day3.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:36:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sign-in.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-in\\sign-in.component.ts*",
+              "RelativeToolTip": "day3.client\\src\\app\\sign-in\\sign-in.component.ts*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:27:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign-in.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "RelativeToolTip": "day3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T20:33:36.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "day3.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T20:11:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sign-up.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeToolTip": "day3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T20:34:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign-up.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeToolTip": "day3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:32:12.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "day3.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:36:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "day3.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day3\\day3.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "day3.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T19:59:30.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

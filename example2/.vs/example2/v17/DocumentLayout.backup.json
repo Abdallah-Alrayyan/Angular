@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\signin\\signin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\signin\\signin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\signin\\signin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\signin\\signin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\signin\\signin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\signin\\signin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\example2\\example2.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85D18831-E1A1-4093-A365-8E2E1D802683}|example2.client\\example2.client.esproj|solutionrelative:example2.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "example2.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T11:01:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "example2.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T12:09:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "example2.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:01:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "example2.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T12:10:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "signin.component.html",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.html",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\signin\\signin.component.html",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.html*",
+              "RelativeToolTip": "example2.client\\src\\app\\signin\\signin.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T12:08:10.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signin.component.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.ts",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\signin\\signin.component.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.ts",
+              "RelativeToolTip": "example2.client\\src\\app\\signin\\signin.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T12:08:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "example2.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:03:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "signin.component.css",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.css",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\signin\\signin.component.css",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\signin\\signin.component.css",
+              "RelativeToolTip": "example2.client\\src\\app\\signin\\signin.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T12:10:56.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "example2.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "example2.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:03:05.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\angular.json",
+              "RelativeDocumentMoniker": "example2.client\\angular.json",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example2\\example2.client\\angular.json",
+              "RelativeToolTip": "example2.client\\angular.json",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwFcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T12:02:58.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

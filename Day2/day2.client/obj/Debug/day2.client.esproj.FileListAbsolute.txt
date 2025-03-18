@@ -1,1 +1,2 @@
 C:\Users\hi\Desktop\New folder (3)\Day2\day2.client\obj\Debug\day2.client.esproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\Angular\Angular\Day2\day2.client\obj\Debug\day2.client.esproj.CoreCompileInputs.cache
