@@ -11,6 +11,7 @@
         <th scope="col">#</th>
         <th scope="col">Name</th>
         <th scope="col">Description</th>
+        <th scope="col">Edit</th>
 
       </tr>
     </thead>
@@ -19,6 +20,7 @@
         <th scope="row">{{Product.id}}</th>
         <td>{{Product.name}}</td>
         <td>{{Product.description}}</td>
+        <td><a routerLink="/editproduct/{{Product.id}}" class="btn btn-primary">Edit</a></td>
 
       </tr>
 

@@ -10,7 +10,8 @@ import { GetProductComponent } from './Admin/get-product/get-product.component';
 import { AddPoductsComponent } from './Admin/add-poducts/add-poducts.component';
 import { AddCategoryComponent } from './Admin/add-category/add-category.component';
 import { DashBordComponent } from './Admin/dash-bord/dash-bord.component';
-import { FormsModule } from '@angular/forms'
+import { FormsModule } from '@angular/forms';
+import { EditComponent } from './Admin/edit/edit.component'
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { FormsModule } from '@angular/forms'
     AddPoductsComponent,
     AddCategoryComponent,
     DashBordComponent,
+    EditComponent,
 
   ],
   imports: [

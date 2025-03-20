@@ -24,7 +24,10 @@ export class SingaleProductComponent {
 
     this.productId = this._active.snapshot.paramMap.get("id")
     this._ser.getProductData().subscribe((data) => {
-      this.product = data.find((x: any) => x.id == this.productId)
+      if (data) {
+        this.product = data.filter((x: any) => x.id == this.productId)
+
+      }
     })
 
   }

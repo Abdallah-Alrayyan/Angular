@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\services\\services.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day2\\day2.client\\src\\app\\singale-product\\singale-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\singale-product\\singale-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day2\\day2.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day2\\day2.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day2\\day2.client\\src\\app\\singale-product\\singale-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|solutionrelative:day2.client\\src\\app\\singale-product\\singale-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8198D120-2612-4ADA-A062-92B10ED74BFC}|day2.client\\day2.client.esproj|c:\\users\\hi\\desktop\\angular\\angular\\day2\\day2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -48,27 +48,27 @@
               "RelativeDocumentMoniker": "day2.client\\src\\app\\services\\services.service.ts",
               "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\services\\services.service.ts",
               "RelativeToolTip": "day2.client\\src\\app\\services\\services.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-16T19:25:42.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "products.component.ts",
               "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\products\\products.component.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\products\\products.component.ts",
               "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\products\\products.component.ts",
               "RelativeToolTip": "day2.client\\src\\app\\products\\products.component.ts",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-16T19:04:50.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "products.component.html",
               "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\products\\products.component.html",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\products\\products.component.html",
@@ -81,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "singale-product.component.ts",
               "DocumentMoniker": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\singale-product\\singale-product.component.ts",
               "RelativeDocumentMoniker": "day2.client\\src\\app\\singale-product\\singale-product.component.ts",
               "ToolTip": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\Day2\\day2.client\\src\\app\\singale-product\\singale-product.component.ts",
               "RelativeToolTip": "day2.client\\src\\app\\singale-product\\singale-product.component.ts",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-16T19:00:31.373Z",
               "EditorCaption": ""

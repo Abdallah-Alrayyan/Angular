@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50294",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example4\\example4.Server\\..\\example4.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

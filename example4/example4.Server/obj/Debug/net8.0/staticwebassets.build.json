@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "zAQ3zEPoYJIFVbBVD5LIotMoCM0u40IDniRTW+nYVCU=",
+  "Source": "example4.Server",
+  "BasePath": "_content/example4.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hi\\Desktop\\Angular\\Angular\\example4\\example4.client\\example4.client.esproj",
+      "Version": 2,
+      "Source": "example4.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
