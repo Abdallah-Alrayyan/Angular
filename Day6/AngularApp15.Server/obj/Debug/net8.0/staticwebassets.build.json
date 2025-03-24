@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "3Ussdj0zNi3kRH4jQpS00ls+34vCvnEkNA5cKeBrK/k=",
+  "Source": "AngularApp15.Server",
+  "BasePath": "_content/AngularApp15.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\pc\\source\\repos\\AngularApp15\\angularapp15.client\\angularapp15.client.esproj",
+      "Version": 2,
+      "Source": "angularapp15.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
